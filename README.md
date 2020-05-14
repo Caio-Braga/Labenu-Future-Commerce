@@ -1,2 +1,2 @@
 # Labenu-Future-Commerce
-Projeto Frontend de um loja virtual
+Projeto Frontend de uma loja virtual
